@@ -11,17 +11,21 @@ New private repo: https://github.com/timhitchins/aemp-collaborative - Ask Tim to
 On our AEMP git acct:
 
 SF Corp Parcel Viz: https://github.com/antievictionmappingproject/sf-corp-parcel-viz
+
 LLC Data Prep: https://github.com/antievictionmappingproject/sf-llc-data-prep
+
 CA Business entitites: https://github.com/antievictionmappingproject/california-business-entities
 
 
 __
 
 Current SF eviction lookup tool that we have: www.antievictionmappingproject.net/pledge/
+
 https://github.com/antievictionmappingproject/antievictionpledge
 
 
 Corporate owner look up tool: https://corporate-owners-sf.netlify.com
+
 https://github.com/antievictionmappingproject/corporate-ownership-map
 
 ___
@@ -29,6 +33,9 @@ ___
 Inspiration from elsewhere:
 
 JustFIX: whoownswhat.justfix.nyc
+
 Property Praxis: https://www.propertypraxis.org
+
 Own It LA: https://ownit.la
+
 Am I Rent Stabilized NYC: https://amirentstabilized.com (https://github.com/antievictionmappingproject/am-i-rent-stabilized)
